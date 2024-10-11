@@ -1,0 +1,2 @@
+token: "xxxxxxxxxxxx"
+method: "dingtalk" # 可以是 "dingtalk" 或 "serverchan"
